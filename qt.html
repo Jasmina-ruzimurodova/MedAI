@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<title>MedAI Diagnostika</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #eaf6f6;
+}
+
+.container {
+    max-width: 700px;
+    margin: 80px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #007b8a;
+}
+
+textarea {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: #007b8a;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005f6b;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f1fdfd;
+    border-left: 5px solid #007b8a;
+    border-radius: 10px;
+}
+
+.similar {
+    margin-top: 10px;
+    color: #555;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>🩺 MedAI Diagnostika</h1>
+
+    <textarea id="input" placeholder="Bemor shikoyatini kiriting..."></textarea>
+    <button onclick="send()">Aniqlash</button>
+
+    <div id="output"></div>
+</div>
+
+<script>
+async function send() {
+    let text = document.getElementById("input").value;
+
+    let res = await fetch("http://127.0.0.1:5000/predict", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({text})
+    });
+
+    let data = await res.json();
+
+    document.getElementById("output").innerHTML = `
+        <div class="result">
+            <b>Sizda ${data.main} kasalligi alomatlari kuzatilmoqda.</b><br>
+            Iltimos shifokorga murojaat qiling!
+            
+            <div class="similar">
+                <br><b>O‘xshash kasalliklar:</b><br>
+                ${data.similar.join(", ")}
+            </div>
+        </div>
+    `;
+}
+</script>
+
+</body>
+</html>

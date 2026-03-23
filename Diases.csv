@@ -1,0 +1,674 @@
+﻿T/r,coarse_label,disease,ICD-10,Asosiy simptom,Qo‘shimcha simptom,Subyektiv shikoyat
+1,ALL,Allergiya,T78.4,To‘shma yoki qichishish,"Shish, aksirish",Noqulaylik
+2,ALL,Anafilaktik shok,T78.2,Nafas yetishmovchiligi,Qon bosimi tushishi,Qo‘rquv hissi
+3,ALL,Allergik rinit,J30.4,Aksirish,Burun oqishi,Burun qichishishi
+4,ALL,Dori allergiyasi,T88.7,To‘shma yoki shish,Qichishish,Nafas qisishi
+5,ALL,Diatez,L20.9,Teri qichishishi,Qizarish,To‘shma
+6,ALL,Gemorragik vaskulit,D69.0,Teri toshmasi (purpura),Bo‘g‘im og‘rig‘i,Qorin og‘rig‘i
+7,ALL,Hasharot allergiyasi,T63,Shish,Qichishish,Nafas qisishi
+8,ALL,Kvinke shishi,T78.3,Yuz yoki tomoq shishi,Nafas qisilishi,Qo‘rquv
+9,ALL,Oziq-ovqat allergiyasi,T78.0,To‘shma,Shish,Qichishish
+10,ALL,Pollinoz,J30.1,Aksirish,Burun oqishi,Ko‘z qichishishi
+11,ALL,Pollinoz,J30.1,Aksirish,Burun oqishi,Ko‘z qichishishi
+12,ALL,Urtikariya,L50,Qavariq toshma,Qichishish,Achishish
+13,ALL,Vaskulit,I77.6,Teri toshmasi,Bo‘g‘im og‘rig‘i,Holsizlik
+14,ANDRO,Erkaklarda bepushtlik,N46,Homiladorlikka erishmaslik,Sperma sifatining pasayishi,Uzoq muddatli farzandsizlik
+15,ANDRO,Erta eyakulyatsiya,F52.4,Ejakulyatsiyaning nazoratsizligi,Jinsiy qoniqish pasayishi,Aloqa davomiyligi qisqaligi
+16,ANDRO,Impotensiya,N52,Erektil disfunksiya,Jinsiy qoniqish pasayishi,O‘ziga ishonchsizlik
+17,ANDRO,Kavernit,N48.8,Jinsiy a’zo og‘rig‘i,Shish,Qizarish
+18,ANDRO,Orxit,N45,Moyak og‘rig‘i,Shish,Yurishda noqulaylik
+19,ANDRO,Prostata bezi adenomasi,N40,Siyish qiyinlashuvi,Tez-tez siyish,Kechasi siyishga turish
+20,ANDRO,Peyroni kasalligi,N48.6,Jinsiy a’zoda egrilik,Og‘riq,Jinsiy aloqa qiyinligi
+21,ANDRO,Prostatit,N41.0,Pastki qorin/perineum og‘rig‘i,Siyish buzilishi,Jinsiy noqulaylik
+22,ANDRO,Prostatit,N41.0,Perineum og‘rig‘i,Siyish buzilishi,Jinsiy noqulaylik
+23,ANDRO,Spermatik shnurning buralishi,N44,Moyak og‘rig‘i,Shish,Tez kuchayuvchi og‘riq
+24,ANDRO,Sertoli hujayra sindromi,E29.1,Bepushtlik,Gormon buzilishi,Libido pasayishi
+25,ANDRO,Varikotsele,I86.1,Moyak sohasida venalar kengayishi,Og‘riq,Bepushtlikdan xavotir
+26,ANDRO,Vezikulit,N49.0,Perineum og‘rig‘i,Siyish buzilishi,Eyakulyatsiyada og‘riq
+27,CAR,Arterial gipertenziya,I10,Qon bosimining ko‘tarilishi,Bosh og‘rig‘i,Yurak urish tezlashuvi
+28,CAR,Arterial gipertoniya,I10,Qon bosimining doimiy yuqoriligi,Ko‘rish buzilishi,Holsizlik
+29,CAR,Arterial gipotenziya,I95,Qon bosimining pasayishi,Bosh aylanishi,Hushdan ketish hissi
+30,CAR,Ateroskleroz,I70,Qon tomir torayishi,Qo‘l-oyoq sovuqligi,Ko‘krak og‘rig‘i
+31,CAR,Bradikardiya,R00.1,Yurak urish sekinlashuvi,Bosh aylanishi,Hushdan ketish hissi
+32,CAR,Bo‘lmachalar fibrillyatsiyasi,I48,Yurak ritmi buzilishi,Nafas qisishi,Yurak urish notekisligi
+33,CAR,Bo‘lmachalar fibrillyatsiyasi,I48,Yurak ritmi buzilishi,Nafas qisishi,Yurak urish notekisligi
+34,CAR,Ekstrasistoliya,I49.3,Yurak urishida uzilish,Ko‘krak qisilishi,Yurak urishi sezilishi
+35,CAR,Endokardit,I33,Yurak ichki qavati yallig‘lanishi,Isitma,Nafas qisishi
+36,CAR,Flebit,I80,Tomir yallig‘lanishi,Shish,Og‘riq
+37,CAR,Gis tutami oyoqchasi blokadasi,I44.4,Yurak o‘tkazuvchanligi buzilishi,Bradikardiya,Ko‘krakda noqulaylik
+38,CAR,Gipertonik kriz,I16,Qon bosimi keskin oshishi,Bosh og‘rig‘i,Ko‘ngil aynishi
+39,CAR,Kardiomegaliya,I51.7,Yurak kattalashuvi,Nafas qisishi,Holsizlik
+40,CAR,Kardiomiopatiya,I42,Yurak mushagi zararlanishi,Nafas qisishi,Tez charchash
+41,CAR,Kardioskleroz,I25.1,Yurak to‘qima qattiqlashuvi,Ko‘krak og‘rig‘i,Nafas qisilishi
+42,CAR,Koronar yetishmovchilik,I25.9,Ko‘krak og‘rig‘i,Nafas qisishi,Yurak siqilishi
+43,CAR,Miokard infarkti,I21,Kuchli ko‘krak og‘rig‘i,Nafas qisishi,Qo‘rquv hissi
+44,CAR,Miokardit,I40,Yurak yallig‘lanishi,Nafas qisishi,Ko‘krak og‘rig‘i
+45,CAR,Mitral stenoz,I05,Nafas qisishi,Yurak shovqini,Tez charchash
+46,CAR,Miya aterosklerozi,I67.2,Bosh aylanishi,Xotira pasayishi,Bosh og‘rig‘i
+47,CAR,Nafas olish aritmiyasi,R00.8,Nafasga bog‘liq yurak ritmi o‘zgarishi,Yurak urish tezlashuvi,Nafas paytida noqulaylik
+48,CAR,Neyrosirkulyator distoniya,F45.3,Yurak urish notekisligi,Bosh aylanishi,Nafas qisilishi
+49,CAR,O‘pka infarkti,I26.9,Ko‘krak og‘rig‘i,Nafas qisishi,Qo‘rquv
+50,CAR,O‘pka yuragi,I27.9,Nafas qisishi,Oyoqda shish,Tez charchash
+51,CAR,Oval teshik nuqsoni,Q21.1,Yurak shovqini,Nafas qisishi,Tez charchash
+52,CAR,Orttirilgan yurak nuqsoni,I38,Yurak shovqini,Nafas qisishi,Tez charchash
+53,CAR,Paroksism,R00.2,To‘satdan yurak urishi xuruji,Bosh aylanishi,Qo‘rquv
+54,CAR,Paroksizmal taxikardiya,I47.1,Yurak urish tezlashuvi,Nafas qisishi,Ko‘krakda noqulaylik
+55,CAR,Perikardit,I30,Ko‘krak og‘rig‘i,Isitma,Nafas qisilishi
+56,CAR,Qon bosimi oshishi (gipertoniya),I10,Qon bosimi yuqori,Bosh og‘rig‘i,Ko‘ngil aynishi
+57,CAR,Revmatik yurak kasalligi,I09,Yurak shovqini,Nafas qisishi,Tez charchash
+58,CAR,Reyno sindromi,I73.0,Barmoqlarda oqarish,Sovuqqa sezuvchanlik,Uvishish
+59,CAR,Stenokardiya,I20,Ko‘krak og‘rig‘i,Nafas qisishi,Yurak siqilishi
+60,CAR,Tug‘ma yurak nuqsoni,Q24,Yurak shovqini,Nafas qisishi,Tez charchash
+61,CAR,Taxikardiya,R00.0,Yurak urish tezlashuvi,Bosh aylanishi,Ko‘krakda noqulaylik
+62,CAR,Tromboflebit,I80,Tomir og‘rig‘i,Shish,Qizarish
+63,CAR,Tromboemboliya,I74,To‘satdan og‘riq,Nafas qisishi,Qo‘rquv
+64,CAR,Venalarning varikoz kengayishi,I83,Oyoqda venalar kengayishi,Shish,Oyoqda og‘irlik
+65,CAR,Venoz yetishmovchilik,I87.2,Oyoqda shish,Varikoz belgilar,Oyoqda og‘irlik
+66,CAR,Vertebrobazilyar yetishmovchiligi (VBY),G45.0,Bosh aylanishi,Ko‘rish xiralashuvi,Muvozanat buzilishi
+67,CAR,Vena trombozi,I82.9,Oyoqda shish,Og‘riq,Oyoqda og‘irlik
+68,CAR,WPW sindromi,I45.6,Yurak urish tezlashuvi,Bosh aylanishi,Ko‘krakda noqulaylik
+69,CAR,Yurak aritmiyasi,I49,Yurak ritmi buzilishi,Bosh aylanishi,Ko‘krakda noqulaylik
+70,CAR,Yurak ishemiyasi,I25,Ko‘krak og‘rig‘i,Nafas qisishi,Tez charchash
+71,CAR,Yurak astmasi,I50,Nafas qisilishi,Kechasi bo‘g‘ilish,Ko‘krak siqilishi
+72,CAR,Yurak yetishmovchiligi,I50,Nafas qisishi,Oyoqlarda shish,Tez charchash
+73,DER,Alopesiya,L65,Soch to‘kilishi,Soch siyraklashuvi,Estetik bezovtalik
+74,DER,Androgenetik alopesiya,L64,Sochning peshona va tepa qismida siyraklashuvi,Soch tolalarining ingichkalashuvi,Estetik bezovtalik
+75,DER,Anal qichishish,L29.0,Anal sohada qichishish,Qizarish,Noqulaylik
+76,DER,Angioma,D18.0,Teri ustida qon tomir o‘simtasi,Qizarish,Estetik bezovtalik
+77,DER,Ateroma,L72.1,Teri ostida yumaloq tugun,Sekret to‘planishi,Estetik noqulaylik
+78,DER,Allergik dermatit,L23,Teri qizarishi,Qichishish,To‘shma
+79,DER,Atopik dermatit,L20,Surunkali qichishish,Quruq teri,Tunda bezovtalik
+80,DER,Akne,L70,Teri toshmalari,Yiringli elementlar,Estetik bezovtalik
+81,DER,Chov epidermofitiyasi,B35.6,Qov sohasida toshma,Qichishish,Qizarish
+82,DER,Dermatit,L30,Teri qizarishi,Qichishish,To‘shma
+83,DER,Dermatofitoz,B35,Zamburug‘li toshma,Qichishish,Teri quruqligi
+84,DER,Egzema,L30.0,Teri qichishishi,Qizarish,Quruqlik
+85,DER,Eritema,L53,Teri qizarishi,Issiqlik hissi,Qichishish
+86,DER,Eritrazma,L08.1,Teri dog‘lari,Qichishish,Qizarish
+87,DER,Flyuoroz,K00.3,Tish emali dog‘lari,Oqartirish o‘zgarishi,Estetik noqulaylik
+88,DER,Follikulit,L73.9,Soch follikulasi yallig‘lanishi,Qizarish,Og‘riq
+89,DER,Furunkulyoz,L02,Ko‘p sonli furunkullar,Yiringli tugunlar,Og‘riq
+90,DER,Furunkul,L02,Yiringli tugun,Qizarish,Og‘riq
+91,DER,Gemangioma,D18.0,Teri ustida tomirli o‘simta,Qizarish,Estetik bezovtalik
+92,DER,Gidradenit,L73.2,Qo‘ltiq ostida yiringli tugun,Shish,Og‘riq
+93,DER,Gingivit,K05.1,Milk yallig‘lanishi,Qonash,Og‘riq
+94,DER,Gipertrikoz,L68.9,Ortiqcha tuk o‘sishi,Qalin tuklar,Estetik bezovtalik
+95,DER,Impetigo,L01,Yiringli pufakchalar,Qichishish,Teri achishishi
+96,DER,Ixtioz,Q80,Teri quruqligi,Qalinlashish,Qichishish
+97,DER,Intertrigo dermatiti,L30.4,Teri burmalarida qizarish,Qichishish,Achishish
+98,DER,Kontakt dermatit,L24,Teri qizarishi,Qichishish,To‘shma
+99,DER,Karbunkul,L02,Yiringli tugun,Shish,Og‘riq
+100,DER,Kariyes,K02,Tish yemirilishi,Og‘riq,Tish sezuvchanligi
+101,DER,Keratoz,L57,Teri qalinlashuvi,Quruqlik,Qichishish
+102,DER,Kondilomalar,A63.0,Teri o‘simtalari,Qichishish,Noqulaylik
+103,DER,Kuperoz,L71.9,Teri kapillyarlari kengayishi,Qizarish,Estetik bezovtalik
+104,DER,Kepek (Perxot),L21.0,Bosh terisi qipiqlanishi,Qichishish,Estetik noqulaylik
+105,DER,Lipoma,D17,Teri ostida yog‘ tuguni,Sekin o‘sish,Estetik bezovtalik
+106,DER,Lishay,B35,Teri toshmasi,Qichishish,Qizarish
+107,DER,Mikoz,B35,Zamburug‘li toshma,Qichishish,Qizarish
+108,DER,Neyrodermatit,L28,Teri qichishishi,Qalinlashish,Quruqlik
+109,DER,Oqartirilgan dog‘ (Vitiligo),L80,Teri pigment yo‘qolishi,Oqartirilgan dog‘lar,Estetik bezovtalik
+110,DER,O‘choqli alopetsiya,L63,Sochning dumaloq to‘kilishi,Soch siyraklashuvi,Estetik bezovtalik
+111,DER,O‘sib ketgan qadoq (qavarish),L84,Qalin qadoq,Og‘riq,Yurganda noqulaylik
+112,DER,Onikomikoz,B35.1,Tirnoq qalinlashishi,Rang o‘zgarishi,Estetik bezovtalik
+113,DER,Perioral dermatit,L71.0,Og‘iz atrofida toshma,Qizarish,Achishish
+114,DER,Papillomalar,D23,Teri o‘simtasi,Qichishish,Estetik noqulaylik
+115,DER,Parodontit,K05.3,Milk yallig‘lanishi,Qonash,Og‘izdan hid
+116,DER,Parodontoz,K05.4,Milk chekinishi,Tish qimirlashi,Tish yo‘qotishdan xavotir
+117,DER,Parsha (favus),B35.0,Bosh terisi zamburug‘i,Qichishish,Soch to‘kilishi
+118,DER,Periodontit,K05.3,Tish atrofida yallig‘lanish,Qonash,Og‘riq
+119,DER,Pigment dog‘lari,L81,Teri pigmentatsiyasi,Rang o‘zgarishi,Estetik bezovtalik
+120,DER,Psoriaz,L40,Teri qalin qipiqlanishi,Qichishish,Estetik bezovtalik
+121,DER,Pulpit,K04.0,Tishning kuchli og‘rig‘i,Sovuq/issiq sezuvchanlik,Tunlari og‘riq
+122,DER,Psoriaz,L40,Qalin qipiqlanish,Qichishish,Estetik bezovtalik
+123,DER,Pulpit,K04.0,Kuchli tish og‘rig‘i,Issiq/sovuqqa sezuvchanlik,Tunlari og‘riq
+124,DER,Qizil yassi temiratki (lichen planus),L43,Teri toshmasi,Qichishish,Achishish
+125,DER,Qovoq pedikulyozi,B85.3,Qovoqda qichishish,Bitlar/nitlar,Noqulaylik
+126,DER,Qadoq,L84,Teri qalinlashuvi,Og‘riq,Yurganda noqulaylik
+127,DER,Qo‘tir (qichima),B86,Kuchli qichishish,Toshma,Tunda qichishish kuchayishi
+128,DER,Rozatsea,L71,Yuz qizarishi,Kapillyar kengayishi,Achishish
+129,DER,Rang-barang temiratki (pityriazis versicolor),B36.0,Teri dog‘lari,Qichishish,Estetik bezovtalik
+130,DER,Rinofima,L71.1,Burun qalinlashuvi,Qizarish,Estetik noqulaylik
+131,DER,Ringworm (temiratki),B35,Teri toshmasi,Qichishish,Qizarish
+132,DER,Sigillar,B07,Teri o‘simtasi,Qalinlashish,Estetik noqulaylik
+133,DER,Suvli qavarish,L84,Pufakchali qadoq,Og‘riq,Yurishda noqulaylik
+134,DER,Soch to‘kilishi,L65,Soch siyraklashuvi,To‘kilish,Estetik bezovtalik
+135,DER,Seboreya,L21,Teri yog‘lanishi,Qipiqlanish,Qichishish
+136,DER,Sikoz,L73.0,Soch follikulasi yallig‘lanishi,Yiringli toshma,Og‘riq
+137,DER,Streptodermiya,L08.0,Yiringli toshma,Qizarish,Qichishish
+138,DER,Striyalar,L90.6,Teri cho‘zilish chiziqlari,Rang o‘zgarishi,Estetik bezovtalik
+139,DER,Sellyulit,L03,Teri osti yallig‘lanishi,Shish,Og‘riq
+140,DER,Tovon sigillar,B07,Tovonda o‘sma,Og‘riq,Yurishda noqulaylik
+141,DER,Teri zamburug‘i,B35,Teri toshmasi,Qichishish,Qizarish
+142,DER,Tish toshlari,K03.6,Tish ustida qattiq qatlam,Milk qonashi,Og‘izdan hid
+143,DER,Tishlarni davolash (post-protsedura og‘riq),K08.8,Tish og‘rig‘i,Shish,Noqulaylik
+144,DER,Terlama (giperhidroz),R61,Haddan tashqari terlash,Hid,Noqulaylik
+145,DER,Tovon pixi,M77.3,Tovon og‘rig‘i,Shish,Yurishda og‘riq
+146,DER,Teri cho‘zilishlari (striyalar),L90.6,Teri cho‘zilish chiziqlari,Rang o‘zgarishi,Estetik bezovtalik
+147,DER,Tomir yulduzchalari,I78.1,Kapillyar kengayishi,Qizarish,Estetik bezovtalik
+148,DER,Teri quruqligi,L85.3,Quruq teri,Qichishish,Achishish
+149,DER,Toksidermiya,L27,Allergik toshma,Qichishish,Achishish
+150,DER,Tovon epidermofitiyasi,B35.3,Tovonda qichishish,Qipiqlanish,Achishish
+151,DER,Vitiligo,L80,Oqartirilgan dog‘lar,Pigment yo‘qolishi,Estetik bezovtalik
+152,DER,Xollar (nevuslar),D22,Teri pigmentli dog‘i,Rang o‘zgarishi,Estetik bezovtalik
+153,DER,Xeylit,K13.0,Lab yallig‘lanishi,Qizarish,Achishish
+154,DER,Yo‘rgak dermatit,L22,Teri qizarishi,Qichishish,Achishish
+155,END,1-toifa qandli diabet,E10,Giperglikemiya,"Ko‘p siyish, chanqoq","Vazn yo‘qotish, holsizlik"
+156,END,2-toifa qandli diabet,E11,Giperglikemiya,"Semizlik, insulin rezistentlik",Tez charchash
+157,END,Avitaminoz,E56,Vitamin yetishmovchiligi belgilari,"Teri qurishi, soch to‘kilishi",Holsizlik
+158,END,Akromegaliya,E22.0,Tana qismlarining kattalashishi,Qo‘l-oyoq kattalashuvi,Bosh og‘rig‘i
+159,END,Autoimmun tireoidit,E06.3,Qalqonsimon bez yallig‘lanishi,Gipotireoz belgilar,Charchoq
+160,END,Addison kasalligi (Bronza kasalligi),E27.1,Buyrak usti bez yetishmovchiligi,Terining qorayishi,Holsizlik
+161,END,Bazedov kasalligi,E05.0,Qalqonsimon bez giperfaoliyati,Yurak urish tezlashuvi,Asabiylik
+162,END,Beriberi,E51.1,B1 vitamini yetishmovchiligi,Mushak zaifligi,Charchoq
+163,END,Buqoq,E04,Qalqonsimon bez kattalashuvi,Yutish qiyinligi,Bo‘yinda bosim hissi
+164,END,Diffuz bo‘qoq (Zob),E04.0,Qalqonsimon bez kattalashuvi,Yutish qiyinligi,Bo‘yinda bosim hissi
+165,END,Endokrinopatiyalar,E34.9,Gormonal buzilish,Vazn o‘zgarishi,Holsizlik
+166,END,Eutireoz,E07.9,Qalqonsimon bez normal faoliyati,Tugun mavjudligi,Bo‘yinda noqulaylik
+167,END,Feoxromotsitoma,C74.1,Qon bosimi ko‘tarilishi,Yurak urish tezlashuvi,Terlash
+168,END,Gipofizar kaxeksiya,E23.0,Keskin ozish,Ishtaha pasayishi,Kuchli holsizlik
+169,END,Ginekomastiya,N62,Erkak ko‘krak bez kattalashuvi,Og‘riq,Estetik bezovtalik
+170,END,Giperkalsemiya,E83.5,Qonda kalsiy oshishi,Chanqoq,Mushak zaifligi
+171,END,Giperparatireoz,E21,Paratireoid gormon oshishi,Suyak og‘rig‘i,Holsizlik
+172,END,Giperprolaktinemiya,E22.1,Prolaktin oshishi,Hayz buzilishi,Bepushtlik
+173,END,Gipertireoz,E05,Qalqonsimon bez giperfaoliyati,Yurak urish tezlashuvi,Asabiylik
+174,END,Gipogonadizm,E29.1,Jinsiy gormon yetishmovchiligi,Libido pasayishi,Bepushtlik
+175,END,Gipokalsemiya,E83.5,Mushak tirishishi,Qo‘l-oyoq uvishishi,Holsizlik
+176,END,Gipotireoz,E03,Qalqonsimon bez sustligi,Vazn ortishi,Sovuqqa sezuvchanlik
+177,END,Girsutizm,L68.0,Ayollarda erkakcha tuk o‘sishi,Hayz buzilishi,Estetik bezovtalik
+178,END,Itsenko-Kushing kasalligi,E24.0,Kortizol oshishi,"Semizlik (oy yuz), striyalar",Mushak zaifligi
+179,END,Kistoz bo‘qoq (Zob),E04.2,Qalqonsimon bez tuguni,Yutish qiyinligi,Bo‘yinda bosim
+180,END,Kaxeksiya,R64,Keskin ozish,Mushak zaifligi,Holsizlik
+181,END,Kretinizm,E00,Aqliy rivojlanish sustligi,O‘sish kechikishi,Holsizlik
+182,END,Kushing sindromi,E24.9,Kortizol ortishi,"Oy yuz, striyalar",Mushak zaifligi
+183,END,Libidoning pasayishi,F52.0,Jinsiy istak kamayishi,Gormonal buzilish,Qoniqmaslik
+184,END,Miksedema,E03.9,Teri shishishi,Sovuqqa sezuvchanlik,Holsizlik
+185,END,Obezlik,E66,Vazn ortishi,Nafas qisishi,Tez charchash
+186,END,Oligomenoreya,N91.3,Hayz kamligi,Sikl buzilishi,Bepushtlikdan xavotir
+187,END,Qalqonsimon bez adenomasi,D34,Qalqonsimon bezda tugun,Bo‘yinda shish,Yutishda noqulaylik
+188,END,Qandli diabet,E14,Giperglikemiya,Chanqoq,Tez charchash
+189,END,Qalqonsimon bez tugunlari va kistalari,E04.1,Bo‘yinda tugun,Bo‘g‘ilish hissi,Yutishda noqulaylik
+190,END,Semizlik,E66,Vazn ortishi,Nafas qisishi,Tez charchash
+191,END,Tugunli bo‘qoq,E04.1,Qalqonsimon bez tuguni,Bo‘yinda shish,Yutishda noqulaylik
+192,END,Tiroidit,E06,Qalqonsimon bez yallig‘lanishi,Og‘riq,Holsizlik
+193,END,Viril sindromi,E25.0,Ayollarda erkakcha belgilar,Tuk o‘sishi,Hayz buzilishi
+194,END,Yod tanqisligi,E01,Qalqonsimon bez kattalashuvi,Holsizlik,Sovuqqa sezuvchanlik
+195,ENT,Angina (tonsillit),J03,Tomoq og‘rig‘i,"Isitma, bodomsimon bez shishi",Yutish qiyinligi
+196,ENT,Aerootit,H65.0,Quloqda og‘riq,Bosim hissi,Eshitish pasayishi
+197,ENT,Atrofik rinit,J31.0,Burun shilliq qavati qurishi,Qonash,Nafas olish qiyinligi
+198,ENT,Eustaxit,H68.0,Quloqda bosim hissi,Eshitish pasayishi,Quloq og‘rig‘i
+199,ENT,Eshitish zaifligi,H90,Eshitish pasayishi,Quloq shovqini,Muloqot qiyinligi
+200,ENT,Faringit,J02,Tomoq og‘rig‘i,Qizarish,Yutish qiyinligi
+201,ENT,Gaymorit,J01.0,Burun bitishi,Yuz sohasida og‘riq,Bosh og‘rig‘i
+202,ENT,Hiqildoq stenozi,J38.6,Nafas yo‘li torayishi,Hushtaksimon nafas,Nafas qisilishi
+203,ENT,Laringit,J04.0,Ovoz bo‘g‘ilishi,Tomoq og‘rig‘i,Quruq yo‘tal
+204,ENT,Laringotraxeit,J04.2,Quruq yo‘tal,Ovoz bo‘g‘ilishi,Nafas qisilishi
+205,ENT,Mastoidit,H70,Quloq ortida og‘riq,Isitma,Shish
+206,ENT,Otit,H66,Quloq og‘rig‘i,Eshitish pasayishi,Shish
+207,ENT,Otoskleroz,H80,Eshitish pasayishi,Quloq shovqini,Muloqot qiyinligi
+208,ENT,Oqartirilgan bodomsimon bez (xronik tonzillit),J35.0,Tomoq og‘rig‘i,Bodom bez kattalashuvi,Yutish qiyinligi
+209,ENT,Otit,H66,Quloq og‘rig‘i,Eshitish pasayishi,Shish
+210,ENT,Otomikoz,B36.9,Quloq qichishishi,Ajralma,Noqulaylik
+211,ENT,Rinit (burun oqishi),J00,Burun oqishi,Aksirish,Burun bitishi
+212,ENT,Soxta krup,J05.0,Nafas qisilishi,Hushtaksimon nafas,Ovoz bo‘g‘ilishi
+213,ENT,Sinusit,J01,Burun bitishi,Yuz og‘rig‘i,Bosh og‘rig‘i
+214,ENT,Skleroma,A48.8,Burun bitishi,Shilliq qavat qalinlashuvi,Nafas qiyinligi
+215,ENT,Tonzillit,J03,Tomoq og‘rig‘i,Isitma,Yutish qiyinligi
+216,ENT,Traxeit,J04.1,Quruq yo‘tal,Ko‘krak og‘rig‘i,Nafas qisilishi
+217,ENT,Yiringli otit,H66.4,Quloq og‘rig‘i,Yiringli ajralma,Eshitish pasayishi
+218,GAS,Assit,R18,Qorin bo‘shlig‘ida suyuqlik to‘planishi,Qorin kattalashuvi,Nafas qisishi
+219,GAS,Atrofik gastrit,K29.4,Oshqozon shilliq qavati atrofiyasi,Qorin og‘rig‘i,Ishtaha pasayishi
+220,GAS,Alkogolli gepatit,K70.1,Jigar yallig‘lanishi,Sariqlik,O‘ng qovurg‘a ostida og‘riq
+221,GAS,Bolalarda ichak disbakteriozi,K63.8,Ich ketish yoki qabziyat,Qorin dam bo‘lishi,Qorin og‘rig‘i
+222,GAS,Barrett qizilo‘ngach,K22.7,Qizilo‘ngach shilliq qavati o‘zgarishi,Reflyuks,Ko‘krak qafasida achishish
+223,GAS,Diafragma qizilo‘ngach teshigi churrasi,K44,Reflyuks,Ko‘krakda achishish,Yutish qiyinligi
+224,GAS,Diareya,A09,Suyuq ich ketish,Qorin og‘rig‘i,Suvsizlanish hissi
+225,GAS,Dolixosigma,Q43.8,Qabziyat,Qorin dam bo‘lishi,Qorin og‘rig‘i
+226,GAS,Duodenit,K29.8,Epigastral og‘riq,Ko‘ngil aynishi,Qorin dam bo‘lishi
+227,GAS,Eroziv gastrit,K29.0,Oshqozon og‘rig‘i,Ko‘ngil aynishi,Qorin achishishi
+228,GAS,Ezofagit,K20,Yutishda og‘riq,Ko‘krakda achishish,Qizilo‘ngachda noqulaylik
+229,GAS,Enterit,K52,Ich ketish,Qorin og‘rig‘i,Holsizlik
+230,GAS,Enterokolit,K52.9,Ich ketish,Qorin dam bo‘lishi,Qorin og‘rig‘i
+231,GAS,Funktsional dispepsiya,K30,Qorin og‘rig‘i,Qorin dam bo‘lishi,Ko‘ngil aynishi
+232,GAS,Gastrit,K29.7,Epigastral og‘riq,Ko‘ngil aynishi,Qorin achishishi
+233,GAS,Glossalgiya,K14.6,Til og‘rig‘i,Achishish,Noqulaylik
+234,GAS,Glossit,K14.0,Til yallig‘lanishi,Qizarish,Og‘riq
+235,GAS,Gilbert sindromi,E80.4,Bilirubin oshishi,Yengil sariqlik,Holsizlik
+236,GAS,Ileit,K52.9,Ichak yallig‘lanishi,Diareya,Qorin og‘rig‘i
+237,GAS,Ishemik kolit,K55.9,Ichak og‘rig‘i,Qonli najas,Holsizlik
+238,GAS,Irritabiy ichak sindromi,K58,Qorin og‘rig‘i,Qabziyat yoki diareya,Qorin dam bo‘lishi
+239,GAS,Jig‘ildon qaynashi (Reflyuks),K21,Ko‘krakda achishish,Qayt qilish,Og‘izda nordon ta’m
+240,GAS,Jigar sirrozi,K74,Jigar yetishmovchiligi,Sariqlik,Qorin shishi
+241,GAS,Kron kasalligi,K50,Surunkali ichak yallig‘lanishi,Diareya,Qorin og‘rig‘i
+242,GAS,Kattalardagi ichak disbiyozi,K63.8,Diareya yoki qabziyat,Qorin dam bo‘lishi,Qorin og‘rig‘i
+243,GAS,Kolit,K52,Ichak yallig‘lanishi,Diareya,Qorin og‘rig‘i
+244,GAS,Laktoza intoleransi,E73,Sut mahsulotidan keyin ich ketish,Qorin dam bo‘lishi,Qorin og‘rig‘i
+245,GAS,Meteorizm,R14,Qorin dam bo‘lishi,Gaz to‘planishi,Qorin og‘rig‘i
+246,GAS,Oshqozon yarasi,K25,Epigastral og‘riq,Ko‘ngil aynishi,Jig‘ildon qaynashi
+247,GAS,O‘n ikki barmoqli ichak yarasi,K26,Qorin og‘rig‘i,Och qolganda og‘riq,Ko‘ngil aynishi
+248,GAS,Oshqozon polipi,K31.7,Oshqozonda o‘sma,Qorin og‘rig‘i,Ko‘ngil aynishi
+249,GAS,O‘t pufagi toshlari,K80,O‘ng qovurg‘a osti og‘rig‘i,Ko‘ngil aynishi,Og‘irlik hissi
+250,GAS,Oshqozon poliplari,K31.7,Qorin noqulayligi,Ko‘ngil aynishi,Og‘irlik hissi
+251,GAS,O‘n ikki barmoqli ichak yarasi,K26,Qorin og‘rig‘i,Och qolganda og‘riq,Ko‘ngil aynishi
+252,GAS,Oshqozon yarasi,K25,Epigastral og‘riq,Ko‘ngil aynishi,Jig‘ildon qaynashi
+253,GAS,Pankreatit,K85,Qorin yuqori qismida og‘riq,Qusish,Og‘ir holsizlik
+254,GAS,Proktit,K62.8,To‘g‘ri ichak og‘rig‘i,Ajralma,Defekatsiyada noqulaylik
+255,GAS,Proktit,K62.8,To‘g‘ri ichak og‘rig‘i,Ajralma,Defekatsiyada noqulaylik
+256,GAS,Qabziyat,K59.0,Ich kelmasligi,Qorin dam bo‘lishi,Qorin og‘rig‘i
+257,GAS,Qizilo‘ngach stenozi,K22.2,Yutish qiyinligi,Ovqat tiqilishi,Ko‘krakda noqulaylik
+258,GAS,Reflyuks ezofagit,K21.0,Ko‘krakda achishish,Qayt qilish,Jig‘ildon qaynashi
+259,GAS,Stafilokokk enterokolit,A04.8,Ich ketish,Isitma,Qorin og‘rig‘i
+260,GAS,Stomatit,K12,Og‘iz yarasi,Achishish,Ovqatlanishda og‘riq
+261,GAS,Seliakiya kasalligi,K90.0,Ich ketish,Vazn yo‘qotish,Qorin og‘rig‘i
+262,GAS,Surunkali enterit,K52.9,Ich ketish,Qorin dam bo‘lishi,Holsizlik
+263,GAS,Tiflit,K52.8,Ichak og‘rig‘i,Isitma,Qorin noqulayligi
+264,GAS,Uippl kasalligi (Whipple),K90.8,Surunkali diareya,Vazn yo‘qotish,Qorin og‘rig‘i
+265,GAS,Xolangit,K83.0,O‘ng qovurg‘a osti og‘rig‘i,Isitma,Sariqlik
+266,GAS,Xolesteroz,K82.4,O‘t pufagi devorida o‘zgarish,Qorin og‘rig‘i,Noqulaylik
+267,GAS,Xoletsistit,K81,O‘ng qovurg‘a osti og‘rig‘i,Ko‘ngil aynishi,Isitma
+268,GAS,Yuzaki gastrit,K29.3,Epigastral og‘riq,Jig‘ildon qaynashi,Ko‘ngil aynishi
+269,GAS,Yo‘g‘on ichak divertikulozi,K57,Qorin og‘rig‘i,Qabziyat,Qorin dam bo‘lishi
+270,GAS,Yog‘li gepatoz,K76.0,Jigar kattalashuvi,Holsizlik,O‘ng qovurg‘a ostida og‘irlik
+271,GAS,Yarali kolit,K51,Qonli ich ketish,Qorin og‘rig‘i,Holsizlik
+272,GYN,Adenomioz,N80.0,Og‘riqli hayz,Ko‘p qon ketish,Pastki qorin og‘rig‘i
+273,GYN,Adneksit,N70,Pastki qorin og‘rig‘i,"Isitma, ajralma",Hayz buzilishi
+274,GYN,Algomenoreya,N94.6,Hayz vaqtida og‘riq,Qorin tortishishi,Ish qobiliyatining pasayishi
+275,GYN,Amenoreya,N91,Hayzning yo‘qligi,Gormonal buzilish,Bepushtlikdan xavotir
+276,GYN,Ayollarda bepushtlik,N97,Homiladorlikka erishmaslik,Ovulyatsiya buzilishi,Psixologik bezovtalik
+277,GYN,Bachadon bo‘yni displaziyasi,N87,Bachadon bo‘yni epiteliy o‘zgarishi,Qonli ajralma,Pastki qorin noqulayligi
+278,GYN,Bachadon miomasi,D25,Bachadonda yaxshi sifatli o‘sma,Ko‘p hayz qon ketishi,Pastki qorin og‘rig‘i
+279,GYN,Bachadon tushishi,N81.4,Bachadon pastga siljishi,Siyishda noqulaylik,Pastki qorin bosim hissi
+280,GYN,Bachadon poliplari,N84.0,Bachadonda o‘sma,Qonli ajralma,Hayz buzilishi
+281,GYN,Bachadon miomasi,D25,Bachadonda yaxshi sifatli o‘sma,Ko‘p hayz qon ketishi,Pastki qorin og‘rig‘i
+282,GYN,Bachadon bo‘yni eroziyasi,N86,Bachadon bo‘yni shilliq qavati shikasti,Ajralma,Pastki qorin noqulayligi
+283,GYN,Disfunksional bachadondan qon ketishi,N93.8,Noan’anaviy bachadon qon ketishi,Hayz sikli buzilishi,Holsizlik
+284,GYN,Endometrium giperplaziyasi,N85.0,Bachadon ichki qavati qalinlashuvi,Qon ketish,Hayz buzilishi
+285,GYN,Endometrioz,N80,Pastki qorin og‘rig‘i,Og‘riqli hayz,Bepushtlik
+286,GYN,Endometrit,N71,Bachadon yallig‘lanishi,Isitma,Pastki qorin og‘rig‘i
+287,GYN,Endoservitsit,N72,Bachadon bo‘yni yallig‘lanishi,Ajralma,Noqulaylik
+288,GYN,Gestoz,O14,Qon bosimi oshishi,Shish,Bosh og‘rig‘i
+289,GYN,Homila tushishi,O03,Homila yo‘qolishi,Qon ketish,Pastki qorin og‘rig‘i
+290,GYN,Hayz ko‘rishning kechikishi,N91.0,Hayz sikli kechikishi,Gormonal o‘zgarish,Bezovtalik
+291,GYN,Hayz sikli buzilishi,N92,Noaniq hayz,Ko‘p yoki kam qon ketish,Pastki qorin og‘rig‘i
+292,GYN,Homiladorlikni ko‘tara olmaslik,N96,Takroriy homila tushishi,Gormonal buzilish,Ruhiy bezovtalik
+293,GYN,Homiladorlarda taksikoz,O21,Ko‘ngil aynishi,Qusish,Holsizlik
+294,GYN,Ikki shoxli bachadon,Q51.3,Bachadon anomaliyasi,Homiladorlik muammolari,Pastki qorin og‘rig‘i
+295,GYN,Kichik jinsiy lablar gipertrofiyasi,N90.6,Lablar kattalashuvi,Noqulaylik,Og‘riq
+296,GYN,Ko‘krak kistasi,N60.0,Ko‘krakda tugun,Og‘riq,Noqulaylik
+297,GYN,Klimaks,N95.1,Hayz to‘xtashi,Issiq bosishi,Asabiylik
+298,GYN,Kolpit,N76,Qinda yallig‘lanish,Oqartirilgan ajralma,Qichishish
+299,GYN,Kam suvlilik,O41.0,Amniotik suyuqlik kamayishi,Homila harakati kamayishi,Bezovtalik
+300,GYN,Kechikkan homiladorlik,O48,Homiladorlik muddati oshishi,Homila harakati o‘zgarishi,Bezovtalik
+301,GYN,Ko‘krak fibroadenomasi,D24,Ko‘krakda yaxshi sifatli tugun,Og‘riq,Noqulaylik
+302,GYN,Laktostaz,O92.7,Ko‘krak bezida sut to‘planishi,Shish,Og‘riq
+303,GYN,Mastit,N61,Ko‘krak bez yallig‘lanishi,Shish,Og‘riq
+304,GYN,Mastopatiya,N60,Ko‘krak bez og‘rig‘i,Tugun,Noqulaylik
+305,GYN,Ovarial kista,N83,Pastki qorin og‘rig‘i,Hayz buzilishi,Noqulaylik
+306,GYN,Ooforit,N70.0,Pastki qorin og‘rig‘i,Isitma,Noqulaylik
+307,GYN,Plasenta ajralishi,O45,Qon ketish,Qorin og‘rig‘i,Homila uchun xavotir
+308,GYN,PMS,N94.3,Kayfiyat o‘zgarishi,Ko‘krak og‘rig‘i,Bezovtalik
+309,GYN,Polikistik tuxumdon sindromi,E28.2,Hayz buzilishi,Tuk o‘sishi,Bepushtlik
+310,GYN,Polikistik tuxumdon sindromi,E28.2,Hayz buzilishi,Girsutizm,Bepushtlik
+311,GYN,Rektotsele,N81.6,Qinda ichak devori chiqishi,Qabziyat,Defekatsiyada qiyinchilik
+312,GYN,Salpingit,N70.1,Pastki qorin og‘rig‘i,Isitma,Ajralma
+313,GYN,Salpingo-ooforit,N70.9,Pastki qorin og‘rig‘i,Isitma,Ajralma
+314,GYN,Sinexiya,N85.6,Bachadon ichki yopishmalar,Hayz buzilishi,Bepushtlik
+315,GYN,Servitsit,N72,Ajralma,Qichishish,Pastki qorin og‘rig‘i
+316,GYN,Tuxumdon disfunktsiyasi,E28.9,Hayz buzilishi,Gormonal nomutanosiblik,Bepushtlik
+317,GYN,Tuxumdon sariq tanasi kistasi,N83.1,Pastki qorin og‘rig‘i,Hayz buzilishi,Noqulaylik
+318,GYN,Tuxumdon kistasi,N83,Qorin og‘rig‘i,Sikl buzilishi,Shish hissi
+319,GYN,Tuxumdonlarning susayishi sindromi,E28.3,Hayz to‘xtashi,Gormon pasayishi,Bepushtlik
+320,GYN,Vaginit,N76,Oqartirilgan ajralma,Qichishish,Achishish
+321,GYN,Vulvit,N76.2,Qichishish,Qizarish,Achishish
+322,GYN,Vulvovaginit,N76,Ajralma,Qichishish,Siyishda noqulaylik
+323,GYN,Vulvaning kraurozi,N90.4,Vulva terisi yupqalashuvi,Qichishish,Achishish
+324,GYN,Vaginal kandidoz,B37.3,Oqartirilgan ajralma,Qichishish,Achishish
+325,HEM,Anemiya (kamqonlik),D64.9,Gemoglobin pasayishi,"Terining oqarishi, bosh aylanishi",Tez charchash
+326,HEM,Bolalarda leykemiya,C91,Oq qon hujayralari ko‘payishi,Holsizlik,Tez-tez infeksiya
+327,HEM,DVC (DVS) sindromi,D65,Qon ivish buzilishi,Qon ketish,Gematoma
+328,HEM,Gunter kasalligi (tug‘ma eritropoetik porfiriya),E80.0,Terining quyoshga sezuvchanligi,"Qizarish, pufakchalar",Kuyish hissi
+329,HEM,Gemofiliya,D66,Qon ivish buzilishi,Uzoq qon ketish,Bo‘g‘imda og‘riq
+330,HEM,Gemoxromatoz,E83.1,Temir ortiqcha to‘planishi,Teri qorayishi,Charchoq
+331,HEM,Leykemiya,C95,Oq qon hujayralari ko‘payishi,Holsizlik,Tez-tez infeksiya
+332,HEM,Porfiriya,E80.2,Qorin og‘rig‘i xurujlari,Teri sezuvchanligi,Bezovtalik
+333,HEM,Porfiriya,E80.2,Qorin og‘rig‘i xurujlari,Teri sezuvchanligi,Bezovtalik
+334,HEM,Surunkali limfoleykoz,C91.1,Limfa tugunlari kattalashuvi,Holsizlik,Tunda terlash
+335,HEM,Temir tanqisligi anemiyasi,D50,Gemoglobin pasayishi,Terining oqarishi,Tez charchash
+336,HEM,Trombofiliya,D68.5,Qon ivish oshishi,Tromboz xavfi,Oyoq og‘rig‘i
+337,HEM,Trombotsitopeniya (purpura),D69.3,Qon ketish moyilligi,Ko‘karishlar,Holsizlik
+338,HEM,Villebrand kasalligi,D68.0,Qon ketishga moyillik,Burun qonashi,Ko‘karishlar
+339,INF,Adenovirus infeksiyasi,B34.0,Isitma,"Tomoq og‘rig‘i, yo‘tal",Umumiy holsizlik
+340,INF,Aftoz isitma,B08.4,Og‘iz shilliq qavatida yaralar,Isitma,Ovqatlanishda og‘riq
+341,INF,Cho‘chqa grippi,J10,Isitma,Yo‘tal,Mushak og‘rig‘i
+342,INF,Dizenteriya,A03,Ich ketish,Qonli najas,Qorin og‘rig‘i
+343,INF,Difteriya,A36,Tomoq qavati yallig‘lanishi,Isitma,Nafas qiyinligi
+344,INF,Epstein-Barr virusi,B27,Isitma,Limfa tugunlari kattalashuvi,Tomoq og‘rig‘i
+345,INF,Erisipellar,A46,Teri qizarishi,Shish,Isitma
+346,INF,Epidemik parotit,B26,Quloqoldi bez shishi,Isitma,Og‘iz ochishda og‘riq
+347,INF,Ebola,A98.4,Yuqori isitma,Qon ketish,Mushak og‘rig‘i
+348,INF,Ekzantema,R21,Teri toshmasi,Qizarish,Qichishish
+349,INF,Enterobioz,B80,Anal qichishish,Qorin og‘rig‘i,Uyqu buzilishi
+350,INF,Ensefalit,G04,Bosh og‘rig‘i,Isitma,Hush buzilishi
+351,INF,Exinokokkoz,B67,Jigar yoki o‘pkada kista,Qorin og‘rig‘i,Holsizlik
+352,INF,Gepatit B,B16,Jigar yallig‘lanishi,Sariqlik,O‘ng qovurg‘a ostida og‘riq
+353,INF,Gepatit D,B17.0,Jigar yallig‘lanishi,Sariqlik,Holsizlik
+354,INF,Gepatit E,B17.2,Jigar yallig‘lanishi,Isitma,Ko‘ngil aynishi
+355,INF,Gepatit A,B15,Isitma,Sariqlik,Ishtaha yo‘qolishi
+356,INF,Gepatit C,B18.2,Surunkali jigar zararlanishi,Holsizlik,O‘ng qovurg‘a ostida og‘irlik
+357,INF,Gerpes,B00,Pufakchali toshma,Qichishish,Achishish
+358,INF,Gipertermiya,R50,Tana harorati oshishi,Terlash,Holsizlik
+359,INF,Gijja (gelmintoz),B82,Ichak parazitlari,Anal qichishish,Qorin og‘rig‘i
+360,INF,Gonoreya,A54,Siyishda og‘riq,Ajralma,Pastki qorin og‘rig‘i
+361,INF,Gripp,J10,Isitma,Yo‘tal,Mushak og‘rig‘i
+362,INF,Iersinioz,A28.2,Ich ketish,Isitma,Qorin og‘rig‘i
+363,INF,Immunitet tanqisligi,D84.9,Tez-tez infeksiya,Holsizlik,Uzluksiz kasallanish
+364,INF,Jinsiy yo‘l bilan yuqadigan kasalliklar (JYOYK),A64,Jinsiy yo‘l ajralmasi,Qichishish,Siyishda og‘riq
+365,INF,Kandidamikoz,B37.7,Qon orqali zamburug‘ infeksiyasi,Isitma,Holsizlik
+366,INF,Kandidoz,B37,Oqartirilgan ajralma,Qichishish,Achishish
+367,INF,Ko‘k yo‘tal,A37,Quruq yo‘tal xurujlari,Qusish,Nafas qisilishi
+368,INF,Limfadenit,L04,Limfa tuguni yallig‘lanishi,Shish,Og‘riq
+369,INF,Limfangit,I89.1,Limfa tomiri yallig‘lanishi,Qizarish,Og‘riq
+370,INF,Listerioz,A32,Isitma,Limfa tuguni kattalashuvi,Mushak og‘rig‘i
+371,INF,Moxov (lepra),A30,Teri dog‘lari,Sezuvchanlik yo‘qolishi,Zaiflik
+372,INF,Meningit,G00,Bosh og‘rig‘i,Isitma,Bo‘yin qotishi
+373,INF,Mikoplazmoz,A49.3,Nafas yo‘li yallig‘lanishi,Yo‘tal,Isitma
+374,INF,Manqa (Sap),A24,Isitma,Limfa tuguni shishi,Og‘riq
+375,INF,Neyrosifilis,A52.3,Nevrologik buzilish,Xotira pasayishi,Harakat buzilishi
+376,INF,O‘lat,A20,Isitma,Limfa tuguni shishi,Holsizlik
+377,INF,O‘rmon ensefaliti,A84,Bosh og‘rig‘i,Isitma,Hush buzilishi
+378,INF,OITS,B24,Immunitet pasayishi,Tez-tez infeksiya,Holsizlik
+379,INF,Odam papilloma virusi,B97.7,Papilloma/so‘gal,Qichishish,Estetik noqulaylik
+380,INF,OIV,B24,Immunitet pasayishi,Tez-tez infeksiya,Holsizlik
+381,INF,Osteomiyelit,M86,Suyak yallig‘lanishi,Isitma,Kuchli og‘riq
+382,INF,OITS,B24,Immunitet pasayishi,Opportunistik infeksiya,Holsizlik
+383,INF,Pedikulyoz,B85,Bosh qichishishi,Bitlar,Noqulaylik
+384,INF,Poliomielit,A80,Falaj,Isitma,Harakat cheklanishi
+385,INF,Poliomielit,A80,Falaj,Isitma,Harakat cheklanishi
+386,INF,Quturish,A82,Asab tizimi zararlanishi,Hidrofobiya,"Qo‘rquv, bezovtalik"
+387,INF,Qizamiq,B05,Isitma,Teri toshmasi,Yo‘tal
+388,INF,Qizilcha,B06,Teri toshmasi,Limfa tuguni kattalashuvi,Holsizlik
+389,INF,Qoqshol,A35,Mushak tirishishi,Jag‘ qotishi,Og‘riq
+390,INF,Qorin tifi,A01.0,Isitma,Ich buzilishi,Holsizlik
+391,INF,Rotavirus infeksiyasi,A08.0,Ich ketish,Qusish,Holsizlik
+392,INF,Rinit,J00,Burun oqishi,Aksirish,Burun bitishi
+393,INF,Suvchechak,B01,Pufakchali toshma,Isitma,Qichishish
+394,INF,Sariq kasal (gepatit A),B15,Sariqlik,Isitma,Holsizlik
+395,INF,Shamollash (O‘RVI),J06,Burun oqishi,Yo‘tal,Holsizlik
+396,INF,Shamollash,J00,Burun bitishi,Aksirish,Holsizlik
+397,INF,Salmonellyoz,A02,Ich ketish,Isitma,Qorin og‘rig‘i
+398,INF,Sepsis,A41,Yuqori isitma,Qon bosimi pasayishi,Kuchli holsizlik
+399,INF,Sifilis,A53,Yarali o‘choq,Teri toshmasi,Limfa tuguni kattalashuvi
+400,INF,Skarlatina,A38,Isitma,Qizil toshma,Tomoq og‘rig‘i
+401,INF,Sil (tuberkulyoz),A15,Uzoq davomli yo‘tal,Vazn yo‘qotish,Tunda terlash
+402,INF,Skorbut,E54,Milk qonashi,Holsizlik,Tish og‘rig‘i
+403,INF,Sistitserkoz,B69,Mushak og‘rig‘i,Tutqanoq,Bosh og‘rig‘i
+404,INF,Sitomegalovirus,B25,Isitma,Limfa tuguni kattalashuvi,Holsizlik
+405,INF,Shankroid,A57,Jinsiy yaralar,Og‘riq,Limfa tuguni shishi
+406,INF,Shigelloz,A03,Ich ketish,Qonli najas,Qorin og‘rig‘i
+407,INF,Trixomonoz,A59,Oqartirilgan ajralma,Qichishish,Siyishda og‘riq
+408,INF,Ureaplazmoz,A64,Ajralma,Qichishish,Siyishda achishish
+409,INF,Vabo,A00,Ko‘p suyuq ich ketish,Suvsizlanish,Kuchli holsizlik
+410,INF,Xlamidioz,A56,Oqartirilgan ajralma,Siyishda og‘riq,Qichishish
+411,INF,Yuqumli mononukleoz,B27,Isitma,Limfa tuguni kattalashuvi,Holsizlik
+412,NEU,Alaliya,F80.0,Nutq rivojlanmasligi,So‘z boyligi kamligi,Muloqot qiyinligi
+413,NEU,Amneziya,R41.3,Xotira yo‘qolishi,Eslay olmaslik,Ruhiy bezovtalik
+414,NEU,Apraksiya,R48.2,Harakatni bajarolmaslik,Koordinatsiya buzilishi,Kundalik faoliyat qiyinligi
+415,NEU,Asteniya (astenik sindrom),R53,Umumiy holsizlik,Tez charchash,Ish qobiliyati pasayishi
+416,NEU,Ataksiya,R27.0,Harakat muvozanati buzilishi,Qaltirash,Yiqilishdan qo‘rquv
+417,NEU,Afaziya,R47.0,Nutq buzilishi,So‘z topa olmaslik,Muloqot qiyinligi
+418,NEU,Altsgeymer kasalligi,G30,Xotira pasayishi,Kognitiv buzilish,Kundalik faoliyat qiyinligi
+419,NEU,BSF (Bolalar serebral falaji),G80,Harakat buzilishi,Mushak tonusi oshishi,Nutq rivojlanish kechikishi
+420,NEU,Bell falaj,G51.0,Yuz mushaklari falaji,Yuz assimetriyasi,Gapirish qiyinligi
+421,NEU,Demensiya,F03,Xotira pasayishi,Kognitiv buzilish,Kundalik faoliyat qiyinligi
+422,NEU,Diabetik neyropatiya,E10.4 / E11.4,Oyoqlarda uvishish,Og‘riq,Sezuvchanlik pasayishi
+423,NEU,Dizartriya,R47.1,Nutq buzilishi,So‘z talaffuzi qiyinligi,Gapirish noqulayligi
+424,NEU,Dissirkulyator ensefalopatiya,I67.4,Bosh og‘rig‘i,Xotira pasayishi,Bosh aylanishi
+425,NEU,Dorsalgiya,M54.9,Orqa og‘rig‘i,Mushak tarangligi,Harakat cheklanishi
+426,NEU,Epilepsiya,G40,Tutqanoq xuruji,Hush yo‘qolishi,Qo‘rquv hissi
+427,NEU,Falaj,G83,Mushak harakati yo‘qolishi,Sezuvchanlik pasayishi,Harakat cheklanishi
+428,NEU,Gidrotsefaliya,G91,Bosh hajmi kattalashuvi,Bosh og‘rig‘i,Ko‘ngil aynishi
+429,NEU,Gaye-Vernik sindromi,E51.2,Koordinatsiya buzilishi,Ko‘z harakati buzilishi,Xotira pasayishi
+430,NEU,Insult,I64,To‘satdan falaj,Nutq buzilishi,Bosh og‘rig‘i
+431,NEU,Kimerli anomaliyasi,Q76.0,Bosh aylanishi,Bo‘yin og‘rig‘i,Ko‘rish xiralashuvi
+432,NEU,Karpal tunnel sindromi,G56.0,Qo‘l uvishishi,Og‘riq,Barmoqlarda karaxtlik
+433,NEU,Lumbago,M54.5,Bel sohasida keskin og‘riq,Mushak spazmi,Harakat cheklanishi
+434,NEU,Lomber osteoxondroz,M51,Umurtqa diski degeneratsiyasi,Bel og‘rig‘i,Oyoqqa tarqaluvchi og‘riq
+435,NEU,Miasteniya,G70.0,Mushak tez charchashi,Ko‘z qovoq tushishi,Holsizlik
+436,NEU,Migren,G43,Kuchli bosh og‘rig‘i,Yorug‘likka sezuvchanlik,Ko‘ngil aynishi
+437,NEU,Mushak distrofiyasi,G71,Mushak zaifligi,Harakat buzilishi,Charchoq
+438,NEU,Mushaklar spazmi,R25.2,Mushak tortilishi,Og‘riq,Harakat noqulayligi
+439,NEU,Narkolepsiya,G47.4,To‘satdan uyqu xuruji,Mushak tonusi yo‘qolishi,Kunduzgi uyquchanlik
+440,NEU,Nevralgiya,M79.2,Nerv og‘rig‘i,Sanchuvchi og‘riq,Harakatda og‘riq
+441,NEU,Nevrit,G58.9,Nerv yallig‘lanishi,Sezuvchanlik pasayishi,Og‘riq
+442,NEU,Oligofreniya,F70,Aqliy rivojlanish sustligi,O‘rganish qiyinligi,Moslashuv muammosi
+443,NEU,Osteoxondroz,M42,Umurtqa og‘rig‘i,Mushak tarangligi,Harakat cheklanishi
+444,NEU,Parkinson kasalligi,G20,Qaltirash,Harakat sekinlashuvi,Kundalik ishlar qiyinligi
+445,NEU,Pik kasalligi (frontotemporal demensiya),G31.0,Xulq o‘zgarishi,Xotira pasayishi,Ijtimoiy moslashuv qiyinligi
+446,NEU,Polinevropatiya,G62.9,Oyoq-qo‘lda uvishish,Og‘riq,Sezuvchanlik pasayishi
+447,NEU,Polinevropatiya,G62.9,Uvishish,Og‘riq,Sezuvchanlik pasayishi
+448,NEU,Radikulit,M54.1,Orqa og‘rig‘i,Oyoqqa tarqaluvchi og‘riq,Harakat cheklanishi
+449,NEU,Siyatik asab nevralgiyasi,M54.3,Bel-og‘riq oyoqqa tarqaladi,Uvishish,Harakat qiyinligi
+450,NEU,Sakral osteoxondroz,M42,Bel og‘rig‘i,Mushak tarangligi,Harakat cheklanishi
+451,NEU,Spinal mushak atrofiyasi,G12,Mushak zaifligi,Harakat regressi,Nafas buzilishi
+452,NEU,Trigeminal nevralgiya,G50.0,Yuzda sanchuvchi og‘riq,Tetiklanish xurujlari,Gapirishda og‘riq
+453,NEU,Tarqoq skleroz,G35,Harakat buzilishi,Ko‘rish pasayishi,Holsizlik
+454,NEU,Tourette sindromi,F95.2,Tiklar,Tovushli tik,Ijtimoiy noqulaylik
+455,NEU,Tutqanoqlar,R56,Tutqanoq xuruji,Hush yo‘qolishi,Qo‘rquv
+456,NEU,Umurtqalararo disk churrasi,M51.2,Bel/bo‘yin og‘rig‘i,Oyoqqa/qo‘lga tarqalish,Harakat cheklanishi
+457,NEU,Xantington kasalligi,G10,Ixtiyorsiz harakatlar,Xotira pasayishi,Ruhiy o‘zgarish
+458,NEU,Yuz nervining parezi,G51.0,Yuz mushaklari sustligi,Og‘iz qiyshayishi,Gapirish qiyinligi
+459,NPH,Amiloidoz,E85,Organlarda oqsil to‘planishi,"Shish, buyrak zararlanishi",Holsizlik
+460,NPH,Buyrak polikistozi,Q61,Buyraklarda kista,Qon bosimi oshishi,Bel og‘rig‘i
+461,NPH,Buyrak yetishmovchiligi,N18,Buyrak funksiyasi pasayishi,Shish,Siydik kamayishi
+462,NPH,Daun sindromi,Q90,Aqliy rivojlanish kechikishi,Xos yuz tuzilishi,O‘rganish qiyinligi
+463,NPH,Glomerulonefrit,N05,Buyrak yallig‘lanishi,Shish,Siydik o‘zgarishi
+464,NPH,Jigar kistasi,K76.8,Jigarda suyuqlik to‘plami,Qorin og‘rig‘i,O‘ng qovurg‘a ostida noqulaylik
+465,NPH,Leysinoz,E71.0,Aminokislota almashinuv buzilishi,Qusish,Holsizlik
+466,NPH,Limfostaz,I89.0,Oyoq-qo‘lda shish,Og‘irlik hissi,Harakat noqulayligi
+467,NPH,Ley sindromi,G31.8,Nevrologik regress,Mushak zaifligi,Nafas buzilishi
+468,NPH,Marfan sindromi,Q87.4,Uzun bo‘y,Yurak nuqsoni,Ko‘rish muammosi
+469,NPH,Nefrit,N05,Buyrak yallig‘lanishi,Shish,Siydik o‘zgarishi
+470,NPH,Nefroptoz,N28.8,Buyrak pastga siljishi,Bel og‘rig‘i,Siydik buzilishi
+471,NPH,Piyelonefrit,N10,Bel og‘rig‘i,Isitma,Siyishda og‘riq
+472,NPH,Patau sindromi,Q91,Tug‘ma nuqsonlar,Rivojlanish kechikishi,Oziqlanish qiyinligi
+473,NPH,Patau sindromi,Q91,Tug‘ma nuqsonlar,Rivojlanish kechikishi,Oziqlanish qiyinligi
+474,NPH,Refsum sindromi,G60.1,Nevropatiya,Ko‘rish buzilishi,Harakat noqulayligi
+475,NPH,Tirozinemiya,E70.2,Metabolik buzilish,Jigar zararlanishi,Holsizlik
+476,NPH,Uremiya,N19,Intoksikatsiya belgilari,Ko‘ngil aynishi,Kuchli holsizlik
+477,ONC,Bazalioma,C44,Teri ustida yarali o‘simta,Qonash,Sekin bituvchi yara
+478,ONC,Bowen kasalligi,D04,Teri ustida dog‘li o‘choq,Qichishish,Sekin o‘suvchi o‘simta
+479,ONC,Bachadon bo‘yni saratoni,C53,Bachadon bo‘ynida o‘sma,Qonli ajralma,Jinsiy aloqa paytida og‘riq
+480,ONC,Ewing sarkomasi,C41,Suyak og‘rig‘i,Shish,Holsizlik
+481,ONC,Epiteliyoma,C44,Teri o‘simtasi,Qonash,Sekin bituvchi yara
+482,ONC,Gipofiz adenomasi,D35.2,Gipofizda o‘sma belgilari,"Bosh og‘rig‘i, ko‘rish buzilishi",Holsizlik
+483,ONC,Gemoblastoz,C95.9,Qon hujayralari o‘sma jarayoni,Holsizlik,Tez-tez infeksiya
+484,ONC,Ko‘krak bezi saratoni,C50,Ko‘krakda tugun,Ko‘krak shakli o‘zgarishi,Og‘riq
+485,ONC,Kaposi sarkomasi,C46,Teri tugunlari,Qizarish,Og‘riq
+486,ONC,Leykoplakiya,K13.2,Oqartirilgan shilliq qavat,Qalinlashish,Noqulaylik
+487,ONC,Limfogranulematoz,C81,Limfa tugunlari kattalashuvi,Isitma,Tunda terlash
+488,ONC,Limfoma,C85,Limfa tuguni o‘sishi,Holsizlik,Vazn yo‘qotish
+489,ONC,Melanoma,C43,Teri pigment o‘zgarishi,Qonash,O‘sma
+490,ONC,Metaplaziya,K22.7,Shilliq qavat o‘zgarishi,Yallig‘lanish,Noqulaylik
+491,ONC,Miyelom,C90,Suyak og‘rig‘i,Anemiya,Holsizlik
+492,ONC,Osteosarkoma,C40,Suyak og‘rig‘i,Shish,Harakat cheklanishi
+493,ONC,Oshqozon saratoni,C16,Vazn yo‘qotish,Qorin og‘rig‘i,Ishtaha pasayishi
+494,ONC,Osteoma,D16,Suyak o‘simtasi,Shish,Og‘riq
+495,ONC,Prostata saratoni,C61,Siyish buzilishi,Og‘riq,Vazn yo‘qotish
+496,ONC,Prostata saratoni,C61,Siyish qiyinlashuvi,Og‘riq,Vazn yo‘qotish
+497,ONC,Qalqonsimon bez saratoni,C73,Bo‘yinda tugun,Yutish qiyinligi,Bo‘g‘ilish hissi
+498,ONC,Retinoblastoma,C69.2,Ko‘z o‘simtasi,Ko‘rish pasayishi,Oqartirilgan qorachiq
+499,ONC,Teri saratoni,C44,Teri o‘simtasi,Qonash,Sekin bituvchi yara
+500,ONC,Xondroma,D16,Suyak o‘simtasi,Shish,Og‘riq
+501,OPH,Ambliyopiya,H53.0,Ko‘rishning pasayishi,Bir ko‘z faoliyati susayishi,Ko‘rish noqulayligi
+502,OPH,Astenopiya,H53.1,Ko‘z tez charchashi,Loyqa ko‘rish,Ko‘zda og‘irlik
+503,OPH,Astigmatizm,H52.2,Ko‘rishning buzilishi,Tasvirning xiralashuvi,Bosh og‘rig‘i
+504,OPH,Blefarit,H01.0,Qovoq cheti yallig‘lanishi,Qizarish,Ko‘z achishishi
+505,OPH,Dakriotsistit,H04.3,Ko‘z yosh yo‘li yallig‘lanishi,Ko‘zda shish,Yiringli ajralma
+506,OPH,Daltonizm,H53.5,Rang ajratish buzilishi,Qizil-yashil farqlay olmaslik,Ko‘rish noqulayligi
+507,OPH,Diabetik retinopatiya,E10.3 / E11.3,Ko‘rish pasayishi,To‘r parda zararlanishi,Xiralashish
+508,OPH,Epifora,H04.2,Ko‘zdan yosh oqishi,Qizarish,Noqulaylik
+509,OPH,Gemianopsiya,H53.4,Ko‘rish maydonining yo‘qolishi,Bir tomonda ko‘rmaslik,Ko‘rishda noqulaylik
+510,OPH,Glaukoma,H40,Ko‘z ichki bosimi oshishi,Ko‘rish torayishi,Ko‘z og‘rig‘i
+511,OPH,Gipermetropiya,H52.0,Yaqinni ko‘ra olmaslik,Ko‘z charchashi,Bosh og‘rig‘i
+512,OPH,Gordeolum (arpa),H00.0,Qovoqda yiringli tugun,Shish,Og‘riq
+513,OPH,Katarakta,H25,Ko‘rish xiralashuvi,Yorug‘likdan qo‘rqish,Ko‘rish pasayishi
+514,OPH,Keratit,H16,Ko‘z og‘rig‘i,Qizarish,Yorug‘likdan qo‘rqish
+515,OPH,Keratokonus,H18.6,Shox parda yupqalashuvi,Ko‘rish buzilishi,Xiralashish
+516,OPH,Konyunktivit,H10,Ko‘z qizarishi,Ajralma,Qichishish
+517,OPH,Ko‘z to‘r pardasining ajralishi,H33,Ko‘rish keskin pasayishi,“Yorug‘ chaqnashlari”,Ko‘z oldida parda
+518,OPH,Ko‘rlik,H54,Ko‘rish yo‘qolishi,Yorug‘lik sezmaslik,Mustaqil harakat qiyinligi
+519,OPH,Miyopiya,H52.1,Uzoqni ko‘ra olmaslik,Ko‘z charchashi,Bosh og‘rig‘i
+520,OPH,Oqartirilgan ko‘z pardasi (pterigium),H11.0,Ko‘zda o‘sma,Qizarish,Noqulaylik
+521,OPH,Qorong‘uda ko‘rmaslik (gemeralopiya),H53.6,Kechasi ko‘rish pasayishi,Ko‘rish moslashuvi sust,Noqulaylik
+522,OPH,Quruq ko‘z sindromi,H04.1,Ko‘z qurishi,Achishish,“Qum” hissi
+523,OPH,Strabismus,H50,Ko‘zlar qiyshayishi,Ko‘rish buzilishi,Noqulaylik
+524,OPH,To‘r parda distrofiyasi,H35.5,Ko‘rish pasayishi,Yorug‘lik sezuvchanligi,Xiralashish
+525,OPH,Traxoma,A71,Ko‘z yallig‘lanishi,Qizarish,Ko‘rish pasayishi
+526,OPH,Xalyazion,H00.1,Qovoqda tugun,Shish,Og‘riq
+527,PED,Gipotrofiya,E46,Vazn yetishmovchiligi,O‘sish sekinlashuvi,Holsizlik
+528,PED,O‘g‘il bolalarda “vodyanka” (gidrotsele),N43,Moyak qopchasi kattalashuvi,Shish,Noqulaylik
+529,PED,Raxit,E55.0,Suyak yumshashi,Oyoq qiyshayishi,O‘sish kechikishi
+530,PED,Raxit (skolioz bilan),E55.0 + M41,Suyak deformatsiyasi,Umurtqa qiyshayishi,Harakat og‘rig‘i
+531,PED,Tanglay yorig‘i (xeylolizis),Q35,Tanglay nuqsoni,Ovqatlanish qiyinligi,Nutq buzilishi
+532,PED,Tez-tez kasal bo‘ladigan bolalar,Z00.8,Tez-tez infeksiya,Holsizlik,Immunitet sustligi
+533,PED,Yangi tug‘ilgan chaqaloqda sariq,P59,Teri sarg‘ayishi,Bilirubin oshishi,Holsizlik
+534,PSY,Alkogolizm,F10.2,Spirtli ichimlikka qaramlik,Xotira pasayishi,Nazorat yo‘qolishi
+535,PSY,Anorgazmiya,F52.3,Orgazmga erishmaslik,Jinsiy qoniqishning pasayishi,Psixologik bezovtalik
+536,PSY,Anoreksiya,F50.0,Ishtaha yo‘qolishi,Vazn keskin kamayishi,Ovqatdan qo‘rquv
+537,PSY,Apatiya,R45.3,Qiziqishning pasayishi,Emotsional sustlik,Ruhiy bo‘shliq hissi
+538,PSY,Autizm,F84.0,Ijtimoiy muloqot buzilishi,Takrorlanuvchi harakatlar,Moslashuv qiyinligi
+539,PSY,Bulimiya,F50.2,Ortiqcha ovqatlanish xurujlari,Qusish,Aybdorlik hissi
+540,PSY,Depressiya,F32,Kayfiyat tushishi,Ishtaha o‘zgarishi,Umidsizlik hissi
+541,PSY,Disgrafiya,F81.1,Yozuv buzilishi,Harflarni noto‘g‘ri yozish,O‘qishda qiyinchilik
+542,PSY,Disleksiya,F81.0,O‘qish buzilishi,Harflarni chalkashtirish,Matn tushunishda qiyinchilik
+543,PSY,Dissotsiativ identifikatsiya buzilishi,F44.81,Shaxsiyat bo‘linishi,Xotira uzilishi,Ruhiy beqarorlik
+544,PSY,Duduqlanish,F98.5,Nutqning uzilib-uzilib chiqishi,Tovush takrorlanishi,Gapirishdan xavotir
+545,PSY,Diqqat yetishmasligi va giperaktivlik sindromi (DEHB),F90.0,Diqqatning tarqoqligi,Giperaktivlik,O‘qishda qiyinchilik
+546,PSY,Fobiya,F40,Kuchli qo‘rquv,Yurak urish tezlashuvi,Vahima
+547,PSY,Gipersomniya,G47.1,Haddan tashqari uyquchanlik,Charchoq,Diqqat pasayishi
+548,PSY,Giyohvandlik,F19.2,Moddaga qaramlik,Abstinensiya belgilari,Nazorat yo‘qolishi
+549,PSY,Internetga qaramlik,F63.8,Onlayn faoliyatga qaramlik,Uyqu buzilishi,Ijtimoiy chekinish
+550,PSY,Ipoxondriya,F45.2,Kasallikdan qo‘rquv,Doimiy tekshiruv istagi,Bezovtalik
+551,PSY,Lisp (sigmatizm),F80.0,Tovush noto‘g‘ri talaffuzi,Nutq buzilishi,Gapirish noqulayligi
+552,PSY,Maniakal-depressiv psixoz (bipolyar buzilish),F31,Kayfiyat keskin o‘zgarishi,Maniakal epizod,Depressiya
+553,PSY,Megalomaniya,F60.8,O‘zini ulug‘lash,Real baho buzilishi,Ijtimoiy muammo
+554,PSY,Nevrasteniya,F48.0,Tez charchash,Asabiylik,Uyqu buzilishi
+555,PSY,Nevrozlar,F40-F48,Tashvish,Qo‘rquv,Bezovtalik
+556,PSY,Nutqning umumiy rivojlanmaganligi (NUR),F80.9,Nutq rivojlanish kechikishi,So‘z boyligi kamligi,Muloqot qiyinligi
+557,PSY,Oq isitma (deliriy),F10.4,Ong buzilishi,Gallyutsinatsiya,Qo‘rquv
+558,PSY,Oligofreniya,F70,Aqliy rivojlanish sustligi,O‘rganish qiyinligi,Moslashuv muammosi
+559,PSY,Paranoya,F22,Shubha va ta’qib g‘oyalari,Bezovtalik,Ishonchsizlik
+560,PSY,Psixoz,F23,Reallikni baholash buzilishi,Gallyutsinatsiya,Qo‘rquv
+561,PSY,Psixoz,F23,Reallikni baholash buzilishi,Gallyutsinatsiya,Qo‘rquv
+562,PSY,Qimor o‘yinlariga qaramlik,F63.0,Qimorga qaramlik,Nazorat yo‘qolishi,Moliyaviy/ruhiy bosim
+563,PSY,Quvg‘in mania (ta’qib vasvasasi),F22.0,Ta’qib g‘oyalari,Shubha,Bezovtalik
+564,PSY,Ruhiy tushkunlik (depressiya),F32,Kayfiyat pasayishi,Uyqu buzilishi,Umidsizlik
+565,PSY,Rotatsizm (nutq buzilishi),F80.0,“R” tovushini noto‘g‘ri talaffuz qilish,Nutq buzilishi,Gapirish noqulayligi
+566,PSY,Soxta homiladorlik,F45.8,Homiladorlikka o‘xshash belgi,Hayz buzilishi,Ruhiy bezovtalik
+567,PSY,Stendal sindromi,F48.8,Kuchli emotsional reaksiya,Yurak urish tezlashuvi,Bosh aylanishi
+568,PSY,Surunkali charchoq sindromi,G93.3,Doimiy charchoq,Uyqu buzilishi,Diqqat pasayishi
+569,PSY,Siklotimiya,F34.0,Kayfiyat o‘zgaruvchanligi,Depressiv epizod,Bezovtalik
+570,PSY,Shizofreniya,F20,Gallyutsinatsiya,Fikr buzilishi,Ijtimoiy chekinish
+571,PSY,To‘liqsizlik kompleksi,F41.9,O‘zini past baholash,Bezovtalik,Ijtimoiy noqulaylik
+572,PSY,Tug‘ruqdan keyingi depressiya,F53.0,Kayfiyat pasayishi,Uyqu buzilishi,Umidsizlik
+573,PSY,Uyqusizlik,G47.0,Uxlay olmaslik,Tez uyg‘onish,Kunduzgi charchoq
+574,PSY,Vegetonevroz,F45.3,Yurak urishi/bezovtalik,Terlash,Nafas qisilishi
+575,PSY,Vegetivaskulyar distoniya (VVD),F45.3,Bosh aylanishi,Yurak urishi,Holsizlik
+576,PSY,Vahima hujumi,F41.0,To‘satdan vahima,Yurak urish tezlashuvi,Nafas yetmay qolishi
+577,PUL,Alveolit,J67.9,Nafas qisishi,"Quruq yo‘tal, isitma",Ko‘krakda og‘irlik
+578,PUL,Apnoe,G47.3,Nafas to‘xtashi epizodlari,Horlash,Kunduzgi uyquchanlik
+579,PUL,Atipik pnevmoniya,J18.9,Yo‘tal,Isitma,Nafas qisishi
+580,PUL,Bronxial astma,J45,Nafas qisishi,Hushtaksimon nafas,Ko‘krak siqilishi
+581,PUL,Bronxiolit,J21,Nafas qisilishi,Yo‘tal,Isitma
+582,PUL,Bronxit,J20,Yo‘tal,Balg‘am ajralishi,Ko‘krak og‘rig‘i
+583,PUL,Bek sarkoidi (Sarkoidoz),D86,O‘pkada granuloma,Nafas qisishi,Quruq yo‘tal
+584,PUL,Nafas olish yetishmovchiligi,J96,Nafas qisishi,Siyanoz,Holsizlik
+585,PUL,Nafas qisilishi,R06.0,Nafas yetishmovchiligi hissi,Ko‘krak siqilishi,Havoning yetmasligi hissi
+586,PUL,O‘pka yetishmovchiligi,J98.4,Nafas qisishi,Siyanoz,Holsizlik
+587,PUL,Obstruktiv bronxit,J44.8,Yo‘tal,Nafas qisishi,Ko‘krak siqilishi
+588,PUL,O‘pka fibrozi,J84.1,Nafas qisishi,Quruq yo‘tal,Ko‘krakda og‘irlik
+589,PUL,O‘pka shishi,J81,Nafas qisishi,Ko‘pikli balg‘am,Bo‘g‘ilish hissi
+590,PUL,O‘pka emfizemasi,J43,Nafas qisishi,Quruq yo‘tal,Ko‘krak kengayishi
+591,PUL,Plevrit,R09.1,Nafas olganda ko‘krak og‘rig‘i,Isitma,Nafas qisilishi
+592,PUL,Pnevmoniya (zotiljam),J18.9,Yo‘tal,Isitma,Nafas qisishi
+593,PUL,Pnevmoskleroz,J84.1,Nafas qisishi,Quruq yo‘tal,Tez charchash
+594,PUL,Pnevmotoraks,J93,Ko‘krak og‘rig‘i,Nafas qisishi,Qo‘rquv
+595,PUL,Pnevmoniya (zotiljam),J18.9,Yo‘tal,Isitma,Nafas qisishi
+596,PUL,Pnevmoskleroz,J84.1,Nafas qisishi,Quruq yo‘tal,Tez charchash
+597,PUL,Pnevmotoraks,J93,Ko‘krak og‘rig‘i,Nafas qisishi,Qo‘rquv
+598,PUL,Respirator distress sindromi,J80,Nafas yetishmovchiligi,Siyanoz,Bo‘g‘ilish hissi
+599,PUL,Sarkoidoz,D86,Nafas qisishi,Quruq yo‘tal,Holsizlik
+600,PUL,Silikoz,J62,Nafas qisishi,Quruq yo‘tal,Tez charchash
+601,PUL,Surunkali obstruktiv o‘pka kasalligi (SOO‘K),J44,Nafas qisishi,Quruq yo‘tal,Tez charchash
+602,PUL,Sianoz,R23.0,Teri ko‘karishi,Nafas yetishmovchiligi,Holsizlik
+603,RHE,Artrit,M13.9,Bo‘g‘im og‘rig‘i,"Shish, qizarish",Harakat cheklanishi
+604,RHE,Bursit,M71,Bo‘g‘im atrofida shish,Og‘riq,Harakat noqulayligi
+605,RHE,Bo‘g‘imlar koksartrozi,M16,Son bo‘g‘imi og‘rig‘i,Harakat cheklanishi,Yurishda og‘riq
+606,RHE,Dyupyuitren kontrakturasi,M72.0,Kaft barmoqlari bukilishi,Harakat cheklanishi,Qo‘l og‘rig‘i
+607,RHE,Gonartroz,M17,Tizza bo‘g‘imi og‘rig‘i,Shish,Harakat cheklanishi
+608,RHE,Kollagenozlar,M35,Biriktiruvchi to‘qima zararlanishi,Bo‘g‘im og‘rig‘i,Holsizlik
+609,RHE,Mialgiya,M79.1,Mushak og‘rig‘i,Taranglik,Harakat noqulayligi
+610,RHE,Osteoartroz,M19,Bo‘g‘im og‘rig‘i,Qattiqlik,Harakat cheklanishi
+611,RHE,Osteoporoz,M81,Suyak mo‘rtlashuvi,Tez-tez sinish,Bel og‘rig‘i
+612,RHE,Osteoartroz,M19,Bo‘g‘im og‘rig‘i,Qattiqlik,Harakat cheklanishi
+613,RHE,Osteoporoz,M81,Suyak mo‘rtlashuvi,Sinishlar,Bel og‘rig‘i
+614,RHE,Podagra,M10,Bo‘g‘im og‘rig‘i,Shish,Kechasi kuchli og‘riq
+615,RHE,Podagra,M10,Bo‘g‘im og‘rig‘i,Shish,Kechasi kuchli og‘riq
+616,RHE,Revmatizm,I00,Bo‘g‘im og‘rig‘i,Isitma,Harakat og‘rig‘i
+617,RHE,Reyter sindromi,M02.3,Bo‘g‘im og‘rig‘i,Ko‘z yallig‘lanishi,Siyish og‘rig‘i
+618,RHE,Sakroileit,M46.1,Pastki bel og‘rig‘i,Qattiqlik,Harakat og‘rig‘i
+619,RHE,Sharp sindromi,M35.1,Bo‘g‘im og‘rig‘i,Teri o‘zgarishi,Holsizlik
+620,RHE,Sklerodermiya,M34,Teri qalinlashuvi,Bo‘g‘im og‘rig‘i,Quruqlik
+621,RHE,Tizimli qizil bo‘richa,M32,Teri toshmasi,Bo‘g‘im og‘rig‘i,Holsizlik
+622,RHE,Tendinit,M75,Pay yallig‘lanishi,Shish,Harakat og‘rig‘i
+623,RHE,Tendovaginit,M65,Pay qini yallig‘lanishi,Qizarish,Og‘riq
+624,RHE,Yelka bo‘g‘imi periartropatiyasi,M75.0,Yelka og‘rig‘i,Harakat cheklanishi,Qo‘l ko‘tarishda og‘riq
+625,SUR,Abssess,L02,Yiringli o‘choq,"Shish, qizarish",Og‘riq
+626,SUR,Anal yoriq,K60.2,Defekatsiya paytida og‘riq,Qon ajralishi,Anal sohada achishish
+627,SUR,Appenditsit,K35,O‘ng pastki qorin og‘rig‘i,"Isitma, ko‘ngil aynishi",Harakatda og‘riq
+628,SUR,Diabetik tovon sindromi,E10.5 / E11.5,Oyoqda yara,Infeksiya,Og‘riq
+629,SUR,Flegmona,L03,Yiringli yallig‘lanish,Shish,Isitma
+630,SUR,Flyus (odontogen abssess),K04.7,Tish atrofida shish,Og‘riq,Yutish qiyinligi
+631,SUR,Gangrena,I96,To‘qima nekrozi,Qora ranglanish,Kuchli og‘riq
+632,SUR,Gemorroy,I84,Anal sohada tugunlar,Qon ketish,Achishish
+633,SUR,Gigroma,M67.4,Teri osti kistasi,Shish,Noqulaylik
+634,SUR,Ichki qon ketishi,K92.2,Qon ketish,Holsizlik,Bosh aylanishi
+635,SUR,Ichak burilishi,K56.2,Qorin og‘rig‘i,Qusish,Ich kelmasligi
+636,SUR,O‘sib ketgan tirnoq,L60.0,Tirnoq cheti sanchishi,Yallig‘lanish,Og‘riq
+637,SUR,Panaritsiy,L03.0,Barmoqda yiringli yallig‘lanish,Shish,Og‘riq
+638,SUR,Paraproktit,K61,Anal sohada og‘riq,Isitma,O‘tirishda noqulaylik
+639,SUR,Peritonit,K65,Qorin og‘rig‘i,Isitma,Qorin qattiqligi
+640,SUR,To‘g‘ri ichakning tushishi,K62.3,Ichak chiqishi,Qon ketish,Defekatsiyada og‘riq
+641,SUR,To‘g‘ri ichak oqmasi,K60.3,Oqma yo‘li hosil bo‘lishi,Yiringli ajralma,Og‘riq
+642,SUR,Trofik yara,L97,Bitmaydigan yara,Shish,Og‘riq
+643,TRM,Axil payining shikastlanishi,S86.0,Oyoq orqa qismida og‘riq,Shish,Harakat cheklanishi
+644,TRM,Bolalarda valgus oyoq deformatsiyasi,M21.0,Oyoq panjasining ichkariga og‘ishi,Yurish buzilishi,Tez charchash
+645,TRM,Bo‘g‘imlar displaziyasi,M24.8,Bo‘g‘im noto‘g‘ri rivojlanishi,Harakat cheklanishi,Og‘riq
+646,TRM,Bo‘yin qiyshiqligi,M43.6,Bo‘yin og‘ishi,Mushak tortilishi,Harakat cheklanishi
+647,TRM,Bosh miya jarohati,S06,Bosh og‘rig‘i,Hushdan ketish,Ko‘ngil aynishi
+648,TRM,Chanoq-son bo‘g‘imlari displaziyasi,Q65,Son bo‘g‘imi noto‘g‘ri rivojlanishi,Yurish buzilishi,Og‘riq
+649,TRM,Femur bo‘yni sinishi,S72.0,Son sohasida og‘riq,Harakat imkonsizligi,Yura olmaslik
+650,TRM,Gematoma,T14.0,Ko‘karish (qon quyilishi),Shish,Og‘riq
+651,TRM,Kifoz,M40.0,Umurtqa qiyshayishi,Bel og‘rig‘i,Harakat cheklanishi
+652,TRM,Kuyish,T30,Teri shikastlanishi,Pufakchalar,Kuchli og‘riq
+653,TRM,Lordoz,M40.4,Umurtqa oldinga qiyshayishi,Bel og‘rig‘i,Harakat cheklanishi
+654,TRM,Meniska kistasi,M23.0,Tizza og‘rig‘i,Shish,Harakat cheklanishi
+655,TRM,Maymoqlik,M21.4,Oyoq deformatsiyasi,Yurish buzilishi,Tez charchash
+656,TRM,Miya chayqalishi,S06.0,Bosh og‘rig‘i,Hushdan ketish,Ko‘ngil aynishi
+657,TRM,Qovurg‘alarning sinishi,S22.3,Ko‘krak og‘rig‘i,Nafas olganda kuchayadi,Harakatda og‘riq
+658,TRM,Shlatter kasalligi,M92.5,Tizza oldida og‘riq,Shish,Harakatda og‘riq
+659,TRM,Suyak sinishi,S52,Kuchli og‘riq,Shish,Harakat yo‘qligi
+660,TRM,Umurtqalarning siljishi (spondilolistez),M43.1,Bel og‘rig‘i,Qattiqlik,Uzoq turishda og‘riq
+661,TRM,Yassi oyoqlik,M21.4,Oyoq yassi bo‘lishi,Yurishda og‘riq,Tez charchash
+662,URO,Ayollarda sistit,N30,Siyishda og‘riq,Tez-tez siyish,Pastki qorin og‘rig‘i
+663,URO,Balanit,N48.1,Jinsiy a’zo boshchasida yallig‘lanish,Qizarish,Qichishish
+664,URO,Buyrakda toshlar,N20,Bel sohasida og‘riq,Siyishda og‘riq,Buyrak sanchig‘i
+665,URO,Erkaklarda sistit,N30,Siyishda og‘riq,Tez-tez siyish,Pastki qorin og‘rig‘i
+666,URO,Enurez,F98.0,Tunda siydik tutolmaslik,Uyqu buzilishi,Uyatchanlik
+667,URO,Epididimit,N45,Moyak orti yallig‘lanishi,Shish,Og‘riq
+668,URO,Giperaktiv qovuq,N32.8,Tez-tez siyish,Siyishni tutolmaslik,Noqulaylik
+669,URO,Qovuq atoniyasi,N31.2,Siydik tuta olmaslik,Siydik qolishi,Pastki qorin bosim
+670,URO,Siydik chiqarishning buzilishi,R39,Siyish qiyinlashuvi,Tez-tez siyish,Noqulaylik
+671,URO,Sistit,N30,Siyishda og‘riq,Tez-tez siyish,Pastki qorin og‘rig‘i
+672,URO,Urolitiyoz kasalligi,N20,Bel og‘rig‘i (sanchiq),Siyishda og‘riq,Qon aralash siydik
+673,URO,Uretrit,N34,Siyishda og‘riq,Ajralma,Achishish
